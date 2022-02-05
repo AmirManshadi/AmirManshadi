@@ -1,7 +1,7 @@
 Hi, I’m Amirhossein Pourimanshad 
 a 19 years old guy from Tehran
 
-I was introduced to the world of programming about a year ago and immediately fell in love with it,
+I was introduced to the world of programming in 2020 and immediately fell in love with it,
 so I'm here to follow my passion to be a creator.
 
 SKILLS :   C/C++  /   CMD   /   HTML  /   CSS  
