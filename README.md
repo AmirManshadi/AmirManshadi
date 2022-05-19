@@ -11,10 +11,11 @@ SKILLS :
       ~ CSS
       ~ jQuery
       ~ Bootstrap
-      
-  ~ C/C++
-  ~ Python  
   
+  # other
+      ~ C/C++
+      ~ Python  
+
 
 HOW TO REACH ME : 
 
