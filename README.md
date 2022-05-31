@@ -10,6 +10,7 @@ so I'm here to follow my passion to be a creator.
 
       ~ HTML 
       ~ CSS
+      ~ Sass
       ~ jQuery
       ~ Bootstrap
   
