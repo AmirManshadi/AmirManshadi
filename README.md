@@ -6,7 +6,7 @@
 const Amirhossein = {
  Roles: ["Front-end developer"],
  Languages: ["Javascript"],
- Tools: ["VSCode", "React"]
+ Tools: ["VSCode", "React", "Chakra UI"]
 }
 ```
 
