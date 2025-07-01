@@ -25,7 +25,6 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AmirManshadi&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&date_format=j M[ Y]&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmirManshadi&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=4&theme=react&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
